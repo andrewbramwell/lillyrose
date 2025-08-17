@@ -55,6 +55,7 @@
     height: 100%;
     width: 100%;
     object-fit: cover;
+    border-radius: 1.5em;
   }
 }
 /* Tablet - 768px */
